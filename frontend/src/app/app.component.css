@@ -1,0 +1,36 @@
+.formularioRegistro{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 3%;
+    margin: auto;
+}
+
+.formularioRegistro button {
+    background-color: #e2e2e2;
+    float: right;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.formularioRegistro p {
+    font-size: 14px;
+    font-weight: semibold;
+}
+
+table {
+    width: 100%;
+}
+
+.example-button-row {
+    display: table-cell;
+    width: 400px;
+}
+
+.form-control {
+    padding: 14px 0 0 0 ;
+}
+mat-form-field {
+    margin: 10px;
+}
